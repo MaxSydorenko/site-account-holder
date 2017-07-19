@@ -19,3 +19,5 @@ COMMENTS - VARCHAR(1000)
 5.4. Edit existing account.
 5.5. Delete account.
 5.6. View account.
+5.7. Exit program
+5.8. Enter pass phrase
