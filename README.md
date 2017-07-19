@@ -2,7 +2,7 @@
 
 1st version:
 1. Hold accounts into text file(accounts.txt)
-2. All data encoded. nobody can open file and understood what is it?
+2. All data encoded. nobody can open file and understand what it is.
 3. Data structure:
 SITE|SITE-LINK|LOGIN|PASSWORD|COMMENTS
 Data type:
